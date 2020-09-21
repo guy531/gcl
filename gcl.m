@@ -1,5 +1,5 @@
 function [gcl_output] = gcl(data, num_divisions)
-% Calculate the GCL of the input data with bootstrap
+% Calculate the GCL of the data
 % Guy Amit, guy1.amit@gmail.com, Orr Levy, Dana Vaknin, Tom Snir, Sol
 % Efroni, Peter Castaldi, Yang-Yu Liu, Haim Cohen, Amir Bashan.
 % Based on Bias Corrected Distance Correlation Szekely, G. J., & Rizzo,
